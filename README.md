@@ -53,6 +53,11 @@ The original backbones from which these "off-the-shelf" models were created and 
  - SciPy 1.3.2
  - TensorFlow 1.14.0
 
+## Reference
+
+If you use models or code from this repository, please cite the following paper:
+[Accuracy and Performance Comparison of Video Action Recognition Approaches (IEEE HPEC 2020)](https://arxiv.org/abs/2008.09037)
+
 ## Questions
 
 Any questions can be directed to Matthew Hutchinson at <hutchinson@alum.mit.edu>.
