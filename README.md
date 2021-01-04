@@ -5,7 +5,7 @@ This is a collection of off-the-shelf and state-of-the-art deep learning TensorF
 ## Contents
 
 This directory contains:
- - a folder of trained models
+ - a folder of trained models which can be found at [this Dropbox link](https://www.dropbox.com/sh/0mizy26m2z58bnk/AABltW6G91yqGaBunLwYadJia/Model-Zoo-v2/models?dl=0&subfolder_nav_tracking=1)
  - main.py - the training/validation python script
  - utils.py - support methods for training/validation
  - example_build.ipynb - instructions and examples for working with and modifying these models
@@ -56,7 +56,7 @@ The original backbones from which these "off-the-shelf" models were created and 
 ## Reference
 
 If you use models or code from this repository, please cite the following paper:
-[Accuracy and Performance Comparison of Video Action Recognition Approaches (IEEE HPEC 2020)](https://arxiv.org/abs/2008.09037)
+[Accuracy and Performance Comparison of Video Action Recognition Approaches (IEEE HPEC 2020)](https://ieeexplore.ieee.org/abstract/document/9286249?casa_token=NQcUF_3AHf4AAAAA:kVR1-w4VC4GLtAohJYfUGWoKurhkyCiUrCE3M-j23lSfWAxbwlpvUjrByC2OXWPAcAX4Ooy2)
 
 ## Questions
 
