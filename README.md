@@ -1,5 +1,7 @@
 # Model-Zoo-v2
 
+Link to model zoo: [https://www.dropbox.com/sh/0mizy26m2z58bnk/AABltW6G91yqGaBunLwYadJia/Model-Zoo-v2/models?dl=0&subfolder_nav_tracking=1](https://www.dropbox.com/sh/0mizy26m2z58bnk/AABltW6G91yqGaBunLwYadJia/Model-Zoo-v2/models?dl=0&subfolder_nav_tracking=1)
+
 This is a collection of off-the-shelf and state-of-the-art deep learning TensorFlow-Keras models trained on the [Moments in Time](http://moments.csail.mit.edu/) dataset.  While none made huge breakthroughs, due to the computational costs of training these models on such a large dataset, we would like to make them available to others studying similar problems where transfer learning might be applicable.
 
 ## Contents
